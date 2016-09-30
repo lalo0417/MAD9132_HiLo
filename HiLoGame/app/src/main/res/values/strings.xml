@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiLoGame</string>
+    <string name="author">Caleb Lalonde-Sauve (lalo0417)</string>
+    <string name="action_about">About</string>
+</resources>
